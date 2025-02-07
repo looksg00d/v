@@ -1,0 +1,4 @@
+pandas
+tabulate
+python-dotenv
+openai

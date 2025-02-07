@@ -1,0 +1,164 @@
+2025-02-02 21:01:08,276 - ERROR - [message_tracker.py:228] - Не указан ID инсайта
+2025-02-02 21:01:17,764 - ERROR - [message_tracker.py:112] - Discussion error: node:internal/modules/cjs/loader:1242
+2025-02-02 21:01:17,791 - ERROR - [message_tracker.py:112] - Discussion error: throw err;
+2025-02-02 21:01:17,804 - ERROR - [message_tracker.py:112] - Discussion error: ^
+2025-02-02 21:01:17,816 - ERROR - [message_tracker.py:112] - Discussion error: 
+2025-02-02 21:01:17,828 - ERROR - [message_tracker.py:112] - Discussion error: Error: Cannot find module 'dotenv'
+2025-02-02 21:01:17,840 - ERROR - [message_tracker.py:112] - Discussion error: Require stack:
+2025-02-02 21:01:17,854 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\run-discussion.js
+2025-02-02 21:01:17,871 - ERROR - [message_tracker.py:112] - Discussion error: at Function._resolveFilename (node:internal/modules/cjs/loader:1239:15)
+2025-02-02 21:01:17,889 - ERROR - [message_tracker.py:112] - Discussion error: at Function._load (node:internal/modules/cjs/loader:1064:27)
+2025-02-02 21:01:17,906 - ERROR - [message_tracker.py:112] - Discussion error: at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-02-02 21:01:17,923 - ERROR - [message_tracker.py:112] - Discussion error: at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+2025-02-02 21:01:17,941 - ERROR - [message_tracker.py:112] - Discussion error: at Module.require (node:internal/modules/cjs/loader:1325:12)
+2025-02-02 21:01:17,956 - ERROR - [message_tracker.py:112] - Discussion error: at require (node:internal/modules/helpers:136:16)
+2025-02-02 21:01:17,971 - ERROR - [message_tracker.py:112] - Discussion error: at Object.<anonymous> (C:\Users\User\Desktop\wwww\towns\run-discussion.js:1:1)
+2025-02-02 21:01:17,986 - ERROR - [message_tracker.py:112] - Discussion error: at Module._compile (node:internal/modules/cjs/loader:1546:14)
+2025-02-02 21:01:18,000 - ERROR - [message_tracker.py:112] - Discussion error: at Object..js (node:internal/modules/cjs/loader:1698:10)
+2025-02-02 21:01:18,014 - ERROR - [message_tracker.py:112] - Discussion error: at Module.load (node:internal/modules/cjs/loader:1303:32) {
+2025-02-02 21:01:18,028 - ERROR - [message_tracker.py:112] - Discussion error: code: 'MODULE_NOT_FOUND',
+2025-02-02 21:01:18,043 - ERROR - [message_tracker.py:112] - Discussion error: requireStack: [ 'C:\\Users\\User\\Desktop\\wwww\\towns\\run-discussion.js' ]
+2025-02-02 21:01:18,058 - ERROR - [message_tracker.py:112] - Discussion error: }
+2025-02-02 21:01:18,073 - ERROR - [message_tracker.py:112] - Discussion error: 
+2025-02-02 21:01:18,088 - ERROR - [message_tracker.py:112] - Discussion error: Node.js v23.3.0
+2025-02-02 21:01:18,103 - ERROR - [message_tracker.py:239] - Ошибка при выполнении обсуждения
+2025-02-02 21:02:25,570 - ERROR - [message_tracker.py:228] - Не указан ID инсайта
+2025-02-02 21:02:32,318 - ERROR - [message_tracker.py:112] - Discussion error: node:internal/modules/cjs/loader:1242
+2025-02-02 21:02:32,330 - ERROR - [message_tracker.py:112] - Discussion error: throw err;
+2025-02-02 21:02:32,347 - ERROR - [message_tracker.py:112] - Discussion error: ^
+2025-02-02 21:02:32,364 - ERROR - [message_tracker.py:112] - Discussion error: 
+2025-02-02 21:02:32,382 - ERROR - [message_tracker.py:112] - Discussion error: Error: Cannot find module 'dotenv'
+2025-02-02 21:02:32,399 - ERROR - [message_tracker.py:112] - Discussion error: Require stack:
+2025-02-02 21:02:32,416 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\run-discussion.js
+2025-02-02 21:02:32,433 - ERROR - [message_tracker.py:112] - Discussion error: at Function._resolveFilename (node:internal/modules/cjs/loader:1239:15)
+2025-02-02 21:02:32,451 - ERROR - [message_tracker.py:112] - Discussion error: at Function._load (node:internal/modules/cjs/loader:1064:27)
+2025-02-02 21:02:32,467 - ERROR - [message_tracker.py:112] - Discussion error: at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-02-02 21:02:32,483 - ERROR - [message_tracker.py:112] - Discussion error: at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+2025-02-02 21:02:32,502 - ERROR - [message_tracker.py:112] - Discussion error: at Module.require (node:internal/modules/cjs/loader:1325:12)
+2025-02-02 21:02:32,522 - ERROR - [message_tracker.py:112] - Discussion error: at require (node:internal/modules/helpers:136:16)
+2025-02-02 21:02:32,539 - ERROR - [message_tracker.py:112] - Discussion error: at Object.<anonymous> (C:\Users\User\Desktop\wwww\towns\run-discussion.js:1:1)
+2025-02-02 21:02:32,559 - ERROR - [message_tracker.py:112] - Discussion error: at Module._compile (node:internal/modules/cjs/loader:1546:14)
+2025-02-02 21:02:32,577 - ERROR - [message_tracker.py:112] - Discussion error: at Object..js (node:internal/modules/cjs/loader:1698:10)
+2025-02-02 21:02:32,594 - ERROR - [message_tracker.py:112] - Discussion error: at Module.load (node:internal/modules/cjs/loader:1303:32) {
+2025-02-02 21:02:32,612 - ERROR - [message_tracker.py:112] - Discussion error: code: 'MODULE_NOT_FOUND',
+2025-02-02 21:02:32,628 - ERROR - [message_tracker.py:112] - Discussion error: requireStack: [ 'C:\\Users\\User\\Desktop\\wwww\\towns\\run-discussion.js' ]
+2025-02-02 21:02:32,645 - ERROR - [message_tracker.py:112] - Discussion error: }
+2025-02-02 21:02:32,663 - ERROR - [message_tracker.py:112] - Discussion error: 
+2025-02-02 21:02:32,679 - ERROR - [message_tracker.py:112] - Discussion error: Node.js v23.3.0
+2025-02-02 21:02:32,698 - ERROR - [message_tracker.py:239] - Ошибка при выполнении обсуждения
+2025-02-02 21:03:13,505 - ERROR - [message_tracker.py:112] - Discussion error: node:internal/modules/cjs/loader:1242
+2025-02-02 21:03:13,526 - ERROR - [message_tracker.py:112] - Discussion error: throw err;
+2025-02-02 21:03:13,542 - ERROR - [message_tracker.py:112] - Discussion error: ^
+2025-02-02 21:03:13,565 - ERROR - [message_tracker.py:112] - Discussion error: 
+2025-02-02 21:03:13,587 - ERROR - [message_tracker.py:112] - Discussion error: Error: Cannot find module '../crypto-chat/src/characters/index'
+2025-02-02 21:03:13,606 - ERROR - [message_tracker.py:112] - Discussion error: Require stack:
+2025-02-02 21:03:13,623 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\profiles.js
+2025-02-02 21:03:13,644 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\post-insight.js
+2025-02-02 21:03:13,660 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\run-discussion.js
+2025-02-02 21:03:13,674 - ERROR - [message_tracker.py:112] - Discussion error: at Function._resolveFilename (node:internal/modules/cjs/loader:1239:15)
+2025-02-02 21:03:13,690 - ERROR - [message_tracker.py:112] - Discussion error: at Function._load (node:internal/modules/cjs/loader:1064:27)
+2025-02-02 21:03:13,707 - ERROR - [message_tracker.py:112] - Discussion error: at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-02-02 21:03:13,725 - ERROR - [message_tracker.py:112] - Discussion error: at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+2025-02-02 21:03:13,744 - ERROR - [message_tracker.py:112] - Discussion error: at Module.require (node:internal/modules/cjs/loader:1325:12)
+2025-02-02 21:03:13,761 - ERROR - [message_tracker.py:112] - Discussion error: at require (node:internal/modules/helpers:136:16)
+2025-02-02 21:03:13,777 - ERROR - [message_tracker.py:112] - Discussion error: at Object.<anonymous> (C:\Users\User\Desktop\wwww\towns\profiles.js:16:5)
+2025-02-02 21:03:13,794 - ERROR - [message_tracker.py:112] - Discussion error: at Module._compile (node:internal/modules/cjs/loader:1546:14)
+2025-02-02 21:03:13,810 - ERROR - [message_tracker.py:112] - Discussion error: at Object..js (node:internal/modules/cjs/loader:1698:10)
+2025-02-02 21:03:13,825 - ERROR - [message_tracker.py:112] - Discussion error: at Module.load (node:internal/modules/cjs/loader:1303:32) {
+2025-02-02 21:03:13,841 - ERROR - [message_tracker.py:112] - Discussion error: code: 'MODULE_NOT_FOUND',
+2025-02-02 21:03:13,858 - ERROR - [message_tracker.py:112] - Discussion error: requireStack: [
+2025-02-02 21:03:13,873 - ERROR - [message_tracker.py:112] - Discussion error: 'C:\\Users\\User\\Desktop\\wwww\\towns\\profiles.js',
+2025-02-02 21:03:13,889 - ERROR - [message_tracker.py:112] - Discussion error: 'C:\\Users\\User\\Desktop\\wwww\\towns\\post-insight.js',
+2025-02-02 21:03:13,904 - ERROR - [message_tracker.py:112] - Discussion error: 'C:\\Users\\User\\Desktop\\wwww\\towns\\run-discussion.js'
+2025-02-02 21:03:13,920 - ERROR - [message_tracker.py:112] - Discussion error: ]
+2025-02-02 21:03:13,935 - ERROR - [message_tracker.py:112] - Discussion error: }
+2025-02-02 21:03:13,951 - ERROR - [message_tracker.py:112] - Discussion error: 
+2025-02-02 21:03:13,967 - ERROR - [message_tracker.py:112] - Discussion error: Node.js v23.3.0
+2025-02-02 21:03:13,984 - ERROR - [message_tracker.py:239] - Ошибка при выполнении обсуждения
+2025-02-02 21:03:44,201 - ERROR - [message_tracker.py:112] - Discussion error: node:internal/modules/cjs/loader:1242
+2025-02-02 21:03:44,222 - ERROR - [message_tracker.py:112] - Discussion error: throw err;
+2025-02-02 21:03:44,240 - ERROR - [message_tracker.py:112] - Discussion error: ^
+2025-02-02 21:03:44,257 - ERROR - [message_tracker.py:112] - Discussion error: 
+2025-02-02 21:03:44,273 - ERROR - [message_tracker.py:112] - Discussion error: Error: Cannot find module '../crypto-chat/src/characters/index'
+2025-02-02 21:03:44,289 - ERROR - [message_tracker.py:112] - Discussion error: Require stack:
+2025-02-02 21:03:44,306 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\profiles.js
+2025-02-02 21:03:44,322 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\post-insight.js
+2025-02-02 21:03:44,338 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\run-discussion.js
+2025-02-02 21:03:44,353 - ERROR - [message_tracker.py:112] - Discussion error: at Function._resolveFilename (node:internal/modules/cjs/loader:1239:15)
+2025-02-02 21:03:44,372 - ERROR - [message_tracker.py:112] - Discussion error: at Function._load (node:internal/modules/cjs/loader:1064:27)
+2025-02-02 21:03:44,388 - ERROR - [message_tracker.py:112] - Discussion error: at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-02-02 21:03:44,405 - ERROR - [message_tracker.py:112] - Discussion error: at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+2025-02-02 21:03:44,424 - ERROR - [message_tracker.py:112] - Discussion error: at Module.require (node:internal/modules/cjs/loader:1325:12)
+2025-02-02 21:03:44,442 - ERROR - [message_tracker.py:112] - Discussion error: at require (node:internal/modules/helpers:136:16)
+2025-02-02 21:03:44,460 - ERROR - [message_tracker.py:112] - Discussion error: at Object.<anonymous> (C:\Users\User\Desktop\wwww\towns\profiles.js:16:5)
+2025-02-02 21:03:44,478 - ERROR - [message_tracker.py:112] - Discussion error: at Module._compile (node:internal/modules/cjs/loader:1546:14)
+2025-02-02 21:03:44,495 - ERROR - [message_tracker.py:112] - Discussion error: at Object..js (node:internal/modules/cjs/loader:1698:10)
+2025-02-02 21:03:44,513 - ERROR - [message_tracker.py:112] - Discussion error: at Module.load (node:internal/modules/cjs/loader:1303:32) {
+2025-02-02 21:03:44,532 - ERROR - [message_tracker.py:112] - Discussion error: code: 'MODULE_NOT_FOUND',
+2025-02-02 21:03:44,551 - ERROR - [message_tracker.py:112] - Discussion error: requireStack: [
+2025-02-02 21:03:44,568 - ERROR - [message_tracker.py:112] - Discussion error: 'C:\\Users\\User\\Desktop\\wwww\\towns\\profiles.js',
+2025-02-02 21:03:44,586 - ERROR - [message_tracker.py:112] - Discussion error: 'C:\\Users\\User\\Desktop\\wwww\\towns\\post-insight.js',
+2025-02-02 21:03:44,603 - ERROR - [message_tracker.py:112] - Discussion error: 'C:\\Users\\User\\Desktop\\wwww\\towns\\run-discussion.js'
+2025-02-02 21:03:44,619 - ERROR - [message_tracker.py:112] - Discussion error: ]
+2025-02-02 21:03:44,636 - ERROR - [message_tracker.py:112] - Discussion error: }
+2025-02-02 21:03:44,652 - ERROR - [message_tracker.py:112] - Discussion error: 
+2025-02-02 21:03:44,670 - ERROR - [message_tracker.py:112] - Discussion error: Node.js v23.3.0
+2025-02-02 21:03:44,688 - ERROR - [message_tracker.py:239] - Ошибка при выполнении обсуждения
+2025-02-02 21:05:53,171 - ERROR - [message_tracker.py:112] - Discussion error: node:internal/modules/cjs/loader:1242
+2025-02-02 21:05:53,181 - ERROR - [message_tracker.py:112] - Discussion error: throw err;
+2025-02-02 21:05:53,197 - ERROR - [message_tracker.py:112] - Discussion error: ^
+2025-02-02 21:05:53,212 - ERROR - [message_tracker.py:112] - Discussion error: 
+2025-02-02 21:05:53,228 - ERROR - [message_tracker.py:112] - Discussion error: Error: Cannot find module '../crypto-chat/src/characters/index'
+2025-02-02 21:05:53,243 - ERROR - [message_tracker.py:112] - Discussion error: Require stack:
+2025-02-02 21:05:53,259 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\profiles.js
+2025-02-02 21:05:53,275 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\post-insight.js
+2025-02-02 21:05:53,292 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\run-discussion.js
+2025-02-02 21:05:53,308 - ERROR - [message_tracker.py:112] - Discussion error: at Function._resolveFilename (node:internal/modules/cjs/loader:1239:15)
+2025-02-02 21:05:53,325 - ERROR - [message_tracker.py:112] - Discussion error: at Function._load (node:internal/modules/cjs/loader:1064:27)
+2025-02-02 21:05:53,342 - ERROR - [message_tracker.py:112] - Discussion error: at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-02-02 21:05:53,360 - ERROR - [message_tracker.py:112] - Discussion error: at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+2025-02-02 21:05:53,380 - ERROR - [message_tracker.py:112] - Discussion error: at Module.require (node:internal/modules/cjs/loader:1325:12)
+2025-02-02 21:05:53,399 - ERROR - [message_tracker.py:112] - Discussion error: at require (node:internal/modules/helpers:136:16)
+2025-02-02 21:05:53,414 - ERROR - [message_tracker.py:112] - Discussion error: at Object.<anonymous> (C:\Users\User\Desktop\wwww\towns\profiles.js:16:5)
+2025-02-02 21:05:53,431 - ERROR - [message_tracker.py:112] - Discussion error: at Module._compile (node:internal/modules/cjs/loader:1546:14)
+2025-02-02 21:05:53,450 - ERROR - [message_tracker.py:112] - Discussion error: at Object..js (node:internal/modules/cjs/loader:1698:10)
+2025-02-02 21:05:53,469 - ERROR - [message_tracker.py:112] - Discussion error: at Module.load (node:internal/modules/cjs/loader:1303:32) {
+2025-02-02 21:05:53,486 - ERROR - [message_tracker.py:112] - Discussion error: code: 'MODULE_NOT_FOUND',
+2025-02-02 21:05:53,505 - ERROR - [message_tracker.py:112] - Discussion error: requireStack: [
+2025-02-02 21:05:53,521 - ERROR - [message_tracker.py:112] - Discussion error: 'C:\\Users\\User\\Desktop\\wwww\\towns\\profiles.js',
+2025-02-02 21:05:53,538 - ERROR - [message_tracker.py:112] - Discussion error: 'C:\\Users\\User\\Desktop\\wwww\\towns\\post-insight.js',
+2025-02-02 21:05:53,554 - ERROR - [message_tracker.py:112] - Discussion error: 'C:\\Users\\User\\Desktop\\wwww\\towns\\run-discussion.js'
+2025-02-02 21:05:53,569 - ERROR - [message_tracker.py:112] - Discussion error: ]
+2025-02-02 21:05:53,585 - ERROR - [message_tracker.py:112] - Discussion error: }
+2025-02-02 21:05:53,602 - ERROR - [message_tracker.py:112] - Discussion error: 
+2025-02-02 21:05:53,619 - ERROR - [message_tracker.py:112] - Discussion error: Node.js v23.3.0
+2025-02-02 21:05:53,635 - ERROR - [message_tracker.py:239] - Ошибка при выполнении обсуждения
+2025-02-02 21:05:59,768 - ERROR - [message_tracker.py:112] - Discussion error: node:internal/modules/cjs/loader:1242
+2025-02-02 21:05:59,788 - ERROR - [message_tracker.py:112] - Discussion error: throw err;
+2025-02-02 21:05:59,805 - ERROR - [message_tracker.py:112] - Discussion error: ^
+2025-02-02 21:05:59,821 - ERROR - [message_tracker.py:112] - Discussion error: 
+2025-02-02 21:05:59,838 - ERROR - [message_tracker.py:112] - Discussion error: Error: Cannot find module '../crypto-chat/src/characters/index'
+2025-02-02 21:05:59,856 - ERROR - [message_tracker.py:112] - Discussion error: Require stack:
+2025-02-02 21:05:59,874 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\profiles.js
+2025-02-02 21:05:59,891 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\post-insight.js
+2025-02-02 21:05:59,908 - ERROR - [message_tracker.py:112] - Discussion error: - C:\Users\User\Desktop\wwww\towns\run-discussion.js
+2025-02-02 21:05:59,924 - ERROR - [message_tracker.py:112] - Discussion error: at Function._resolveFilename (node:internal/modules/cjs/loader:1239:15)
+2025-02-02 21:05:59,941 - ERROR - [message_tracker.py:112] - Discussion error: at Function._load (node:internal/modules/cjs/loader:1064:27)
+2025-02-02 21:05:59,959 - ERROR - [message_tracker.py:112] - Discussion error: at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+2025-02-02 21:05:59,978 - ERROR - [message_tracker.py:112] - Discussion error: at wrapModuleLoad (node:internal/modules/cjs/loader:218:24)
+2025-02-02 21:05:59,996 - ERROR - [message_tracker.py:112] - Discussion error: at Module.require (node:internal/modules/cjs/loader:1325:12)
+2025-02-02 21:06:00,016 - ERROR - [message_tracker.py:112] - Discussion error: at require (node:internal/modules/helpers:136:16)
+2025-02-02 21:06:00,033 - ERROR - [message_tracker.py:112] - Discussion error: at Object.<anonymous> (C:\Users\User\Desktop\wwww\towns\profiles.js:16:5)
+2025-02-02 21:06:00,050 - ERROR - [message_tracker.py:112] - Discussion error: at Module._compile (node:internal/modules/cjs/loader:1546:14)
+2025-02-02 21:06:00,068 - ERROR - [message_tracker.py:112] - Discussion error: at Object..js (node:internal/modules/cjs/loader:1698:10)
+2025-02-02 21:06:00,088 - ERROR - [message_tracker.py:112] - Discussion error: at Module.load (node:internal/modules/cjs/loader:1303:32) {
+2025-02-02 21:06:00,107 - ERROR - [message_tracker.py:112] - Discussion error: code: 'MODULE_NOT_FOUND',
+2025-02-02 21:06:00,124 - ERROR - [message_tracker.py:112] - Discussion error: requireStack: [
+2025-02-02 21:06:00,141 - ERROR - [message_tracker.py:112] - Discussion error: 'C:\\Users\\User\\Desktop\\wwww\\towns\\profiles.js',
+2025-02-02 21:06:00,157 - ERROR - [message_tracker.py:112] - Discussion error: 'C:\\Users\\User\\Desktop\\wwww\\towns\\post-insight.js',
+2025-02-02 21:06:00,173 - ERROR - [message_tracker.py:112] - Discussion error: 'C:\\Users\\User\\Desktop\\wwww\\towns\\run-discussion.js'
+2025-02-02 21:06:00,191 - ERROR - [message_tracker.py:112] - Discussion error: ]
+2025-02-02 21:06:00,207 - ERROR - [message_tracker.py:112] - Discussion error: }
+2025-02-02 21:06:00,223 - ERROR - [message_tracker.py:112] - Discussion error: 
+2025-02-02 21:06:00,239 - ERROR - [message_tracker.py:112] - Discussion error: Node.js v23.3.0
+2025-02-02 21:06:00,257 - ERROR - [message_tracker.py:239] - Ошибка при выполнении обсуждения
